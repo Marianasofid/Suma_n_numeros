@@ -1,6 +1,6 @@
 # input
 print("#######################")
-n= input("digite su numero")
+n= input("digite su numero ")
 print("#######################")
 n=int(n)
 
